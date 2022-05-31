@@ -34,7 +34,8 @@ The obtained results were uploaded to PowerBi and the additional actions were ta
 Results of the whole analysis are visible in the photos below. We can see data model created for the purposes of analysis and the final data visualization.
 ![SCCC](https://user-images.githubusercontent.com/98387772/171108811-9b78ae88-25c7-42ce-9fe0-f77a447396a3.png)
 ![SC](https://user-images.githubusercontent.com/98387772/171108204-e7f066c2-3461-4979-a62a-822245711162.png)  
-![SC2](https://user-images.githubusercontent.com/98387772/171108209-d138005c-46e6-42cc-b538-7def29d348ec.png)  
+![SC3](https://user-images.githubusercontent.com/98387772/171109899-7b451c66-2dba-4d6d-afe4-7fd58d5dcc66.png)
+ 
 
 
 ## Limitations
