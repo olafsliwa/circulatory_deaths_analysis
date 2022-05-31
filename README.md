@@ -32,6 +32,10 @@ The obtained results were uploaded to PowerBi and the additional actions were ta
 
 **•	Data model and final visualization**  
 Results of the whole analysis are visible in the photos below. We can see data model created for the purposes of analysis and the final data visualization.
+![SCCC](https://user-images.githubusercontent.com/98387772/171108811-9b78ae88-25c7-42ce-9fe0-f77a447396a3.png)
+![SC](https://user-images.githubusercontent.com/98387772/171108204-e7f066c2-3461-4979-a62a-822245711162.png)  
+![SC2](https://user-images.githubusercontent.com/98387772/171108209-d138005c-46e6-42cc-b538-7def29d348ec.png)  
+
 
 ## Limitations
 Data used to create visualization are available as percentages of the specific part of the population only. This form of data presentation without the number of people in each group prevent analysis of the aggregated data. Percentages alone cannot be summed and divided by the number of elements taking into the consideration due to highly possible risk that groups are not equally numerous.
